@@ -114,9 +114,9 @@ h5-1 {
 }
 
 h5-2 {
-	color: #ffffff;
+	color: #000000;
 	font-weight: 700;
-	font-size: 6rem;
+	font-size: 3.5rem;
 	line-height: 2rem;
 	font-family: "GmarketSansBold"
 }
@@ -131,6 +131,14 @@ h6 {
 
 title_s {
 	color: #ffffff;
+	font-weight: 700;
+	font-size: 1rem;
+	line-height: 2rem;
+	font-family: "GmarketSansMedium"
+}
+
+title_m {
+	color: #1F1F1F;
 	font-weight: 700;
 	font-size: 1rem;
 	line-height: 2rem;
@@ -895,11 +903,19 @@ input[type='checkbox'] {
 	margin-bottom: 4rem;
 }
 
-.basic-5 .media .bullet {
-	color: #e0d8d8;
-	font-weight: 600;
-	font-size: 3rem;
-	line-height: 2.625rem;
+.basic-5 .media .bullet1 {
+	color: #1924A7;
+	font-weight: 400;
+	font-size: 2rem;
+	line-height: 2.2rem;
+	font-family: "Poppins";
+}
+
+.basic-5 .media .bullet2 {
+	color: #5a2b92;
+	font-weight: 400;
+	font-size: 2rem;
+	line-height: 2.2rem;
 	font-family: "Poppins";
 }
 
@@ -907,6 +923,10 @@ input[type='checkbox'] {
 	margin-left: 0.625rem;
 }
 
+.basic-5 .text {
+	margin-left: 2rem;
+	color: #1F1F1F;
+}
 
 /********************/
 /*     Projects     */
@@ -1637,13 +1657,27 @@ a:hover.back-to-top {
 		margin-left: auto;
 	}
 
-	.basic-5 .media .bullet {
+	.basic-5 .media .bullet1 {
 		width: 52px;
 		font-size: 6rem;
 		line-height: 5.25rem;
-		text-align: center;
+		margin-right: 3rem;
+		text-align: left;
 	}
-	
+		.basic-5 .media .bullet2 {
+		width: 52px;
+		font-size: 6rem;
+		line-height: 5.25rem;
+		margin-right: 3rem;
+		text-align: left;
+	}
+		.basic-5 .media .bullet3 {
+		width: 52px;
+		font-size: 6rem;
+		line-height: 5.25rem;
+		margin-right: 3rem;
+		text-align: left;
+	}
 	.basic-5 .media-body {
 		margin-left: 1.5rem;
 	}
