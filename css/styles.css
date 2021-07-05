@@ -622,7 +622,7 @@ input[type='checkbox'] {
 /*****************/
 .header {
 	padding-top: 7rem;
-	background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../../../../Downloads/spify/spify/images/header-background-2.jpg') center center no-repeat;
+	background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('images/header-background-2.jpg') center center no-repeat;
 	background-size: cover;
 	text-align: center;
 }
@@ -895,24 +895,32 @@ input[type='checkbox'] {
 /*     Strengths     */
 /*********************/
 .basic-5 {
-	padding-top: 10rem;
+	padding-top: 5rem;
 	padding-bottom: 2rem;
 }
 
 .basic-5 .list-unstyled .media {
-	margin-bottom: 4rem;
+	margin-bottom: 2.75rem;
 }
 
 .basic-5 .media .bullet1 {
-	color: #1924A7;
-	font-weight: 400;
-	font-size: 2rem;
+	color: #567ace;
+	font-weight: 250;
+	font-size: 1.5rem;
 	line-height: 2.2rem;
 	font-family: "Poppins";
 }
 
 .basic-5 .media .bullet2 {
 	color: #5a2b92;
+	font-weight: 400;
+	font-size: 2rem;
+	line-height: 2.2rem;
+	font-family: "Poppins";
+}
+
+.basic-5 .media .bullet3 {
+	color: #37BB9D;
 	font-weight: 400;
 	font-size: 2rem;
 	line-height: 2.2rem;
@@ -1648,7 +1656,7 @@ a:hover.back-to-top {
 
 	/* Strengths */
 	.basic-5 {
-		padding-top: 11rem;
+		padding-top: 8rem;
 	}
 
 	.basic-5 .list-unstyled {
@@ -1658,7 +1666,7 @@ a:hover.back-to-top {
 	}
 
 	.basic-5 .media .bullet1 {
-		width: 52px;
+		width: 45px;
 		font-size: 6rem;
 		line-height: 5.25rem;
 		margin-right: 3rem;
