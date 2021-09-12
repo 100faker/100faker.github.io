@@ -555,6 +555,12 @@ input[type='checkbox'] {
 	}
 }
 
+.fadeinleft {
+    opacity:0;
+    margin-left:-300px;    
+    max-width:100%;
+}
+
 .navbar .dropdown-menu {
 	margin-top: 0.5rem;
 	margin-bottom: 0.5rem;
