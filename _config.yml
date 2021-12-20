@@ -30,15 +30,10 @@ about-author: 스튜디오 백에서 제공하는 콘텐츠를 즐겨주셔서 �
 
 # Contact links
 email: studiobaek@studiobaek.com # Add your Email address
-phone: # Add your Phone number
 website: https://studiobaek.com/blog # Add your website
 
 # Newsletter
 mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
-
-# Disqus
-discus_identifier: amaynez-github-io # Add your discus identifier
-comments_curtain: yes # leave empty to show the disqus embed directly
 
 # Tracker
 analytics: G-R8SZS2YBZK
