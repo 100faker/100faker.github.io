@@ -3,7 +3,7 @@ title: The Minimum Viable Model
 description: 'Artificial Intelligence trends and concepts made easy.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://studiobaek.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://studiobaek.com/blog" # the base hostname & protocol for your site, e.g. http://example.com
 logo: "/assets/img/branding/MVM-logo-full.svg"
 logo-icon: "/assets/img/branding/MVM-symbol.svg"
 logo-icon-SEO: "/images/title-header.png" # must be a non SVG file
@@ -31,7 +31,7 @@ about-author: 스튜디오 백에서 제공하는 콘텐츠를 즐겨주셔서 �
 # Contact links
 email: studiobaek@studiobaek.com # Add your Email address
 phone: # Add your Phone number
-website: https://studiobaek.com # Add your website
+website: https://studiobaek.com/blog # Add your website
 
 # Newsletter
 mailchimp: "https://github.us1.list-manage.com/subscribe/post?u=8ece198b3eb260e6838461a60&amp;id=397d90b5f4"
