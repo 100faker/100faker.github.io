@@ -25,7 +25,7 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 
 # Author settings
 author: STUDIO BAEK # add your name
-author-pic: https://i.imgur.com/T2hiH3b.gif
+author-pic: "https://i.imgur.com/T2hiH3b.gif"
 about-author: 스튜디오 백에서 제공하는 콘텐츠를 즐겨주셔서 정말 감사할 따름입니다 :)
 
 # Contact links
